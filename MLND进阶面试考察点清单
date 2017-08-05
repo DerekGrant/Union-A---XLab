@@ -1,0 +1,70 @@
+
+#	Python基础
+##	Python基础使用
+###	数据类型
+####	常量、变量
+####	数值、字符串
+####	列表、元组、字典
+####	可变对象、不可变对象、可迭代对象
+###	操作符
+####	+  -  *  /  //  %  **
+####	+=  -= … 赋值运算符
+####	and or not 
+###	函数
+####	关键字 def  lambda
+####	形式参数 实际参数
+####	默认参数 位置参数 关键字参数
+####	参数收集
+####	变量作用域
+####	return yield
+###	类
+####	关键字 class
+####	初始化方法，self
+####	方法
+###其它
+####	Bulid-in function
+#####	len max min sum range round 
+#####	int float str  
+#####	sorted next help dir 
+#####	map reduce filter
+#####	List.method 
+##### String.method
+#####	Dict.method 
+####	Bulid-in library
+#####	Math
+#####	Random
+##### Deque
+#####	Operator 
+#####	Collections 
+####	Loop
+#####	for in
+#####	while
+#####	continue break
+#####	Other
+####	列表推导式、生成器推导式
+##	Numpy
+###	np.array, np.shape, np.reshape, np.array.T
+###	np.random
+###	np.dot,  numpy.linalg.inv
+###	Np.zeros, np.ones, np.eye, np.zero_like
+###	Np.max, np.min, np.sum, np.mean, np.std
+###	无处不在的 axis 参数
+###	广播机制
+##	Pandas
+##	Scipy
+#	数学基础
+##	线性代数
+###	向量、矩阵
+###	矩阵乘法、矩阵求逆
+###	点乘、叉乘
+##	微积分
+###	微分
+###	可微、可导
+###	基础导数表
+###	链式法则
+###	概率
+###	统计
+###	逻辑
+
+#	Linux 基础
+
